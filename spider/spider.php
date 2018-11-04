@@ -3,9 +3,8 @@
 名称:USpider(污~蜘蛛)
 版本:1.0
 最后更新时间:2018/02/10 23:55
-作者:狂放
-作者博客:https://www.iknet.top
-作者地址:https://www.iknet.top/829.html
+作者:秋枫酱
+作者博客:https://blog.iknet.top
 开源协议:GPL v3
 GitHub项目地址:https://github.com/kfangf/USpider
 码云项目地址:https://gitee.com/kfang/USpider
